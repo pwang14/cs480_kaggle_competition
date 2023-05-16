@@ -10,3 +10,5 @@ Various techniques used, documented in notebooks.
 - noisy-images.ipynb: uses noisy image data (CNN with dropout, batch normalization, and skip connections).
 - noisy-text.ipynb: uses noisy text descriptions (transformer, treat input as bag of words).
 - catboost.ipynb: combines previous three models (use catboost to perform gradient boosting).
+
+bert and resnet models not used.
